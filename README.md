@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1200&color=58A6FF&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=%24+whoami;game+dev+%7C+systems+programmer+%7C+infra+builder" alt="Typing SVG" />
 </a>
 
-I'm **LunaZamora** -- I build infrastructure tools, game mods, and the occasional thing that probably shouldn't exist.
+I'm **h3nr1.d14z** -- I build infrastructure tools, game mods, and the occasional thing that probably shouldn't exist.
 Game Dev, Full-Stack Engineer & DevOps at [@The1Studio](https://github.com/The1Studio). Based in Hanoi.
 
 ---
